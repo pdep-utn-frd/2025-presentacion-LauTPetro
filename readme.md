@@ -1,5 +1,5 @@
 # Hola me llamo Lautaro Torres, Lauti para los amigos
-![Una imagen mia](C:\Users\Lautaro\Desktop\WhatsApp Image 2025-03-02 at 18.15.06.jpg)
+![una imagen mia](c:\Users\Lautaro\Desktop\Yo.jpeg)
 ## Algunas cosas sobre mi:
 - Tengo 20 años
 - Vivo en Buenos Aires, en Tigre (un poco lejos de la facu tristemente)
