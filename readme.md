@@ -1,4 +1,4 @@
-# Hola me llamo Lautaro Torres, Lauti para los amigos
+# Hola me llamo Lautaro Torres
 ![una imagen mia](Yo.jpg)
 ## Algunas cosas sobre mi:
 - Tengo 20 años
